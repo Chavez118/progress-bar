@@ -1,6 +1,6 @@
 {
   "name": "progress-bar",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Redirected output? It still renders sensibly.",
   "type": "module",
   "main": "src/index.js",
